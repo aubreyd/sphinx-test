@@ -1,7 +1,9 @@
 
 
-Characterize baseline quantities of interest and uncertainties
+Characterizing Baselines
 ==============================================================
+
+Characterize baseline quantities of interest and uncertainties
 
 
 Baseline natural variability
@@ -15,7 +17,7 @@ Observational datasets and their uncertainties
 
 Write me.
 
-See: [https://climatedataguide.ucar.edu/](https://climatedataguide.ucar.edu/)
+See NCAR's `Expert guidance on climate data <https://climatedataguide.ucar.edu/>`_
 
 
 Attribution of observed changes
