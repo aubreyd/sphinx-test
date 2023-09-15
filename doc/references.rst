@@ -7,7 +7,6 @@ References
 - `Downscaled High Resolution Datasets for Climate Change Projections <https://www.enviro.wiki/index.php?title=Downscaled_High_Resolution_Datasets_for_Climate_Change_Projections>`_
 - `U.S. Bureau of Reclamation West-Wide Climate and Hydrology Assessment <https://www.usbr.gov/climate/secure/docs/2021secure/westwidesecurereport.pdf>`_
 - `Aspen Global Change Institute Climate Change Portal <https://www.agci.org/projects/climate-portal-guide>`_
-- `NCAR CLimate Primer <https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000046>`_
 - `Climate Toolbox <https://climatetoolbox.org/>`_
 - `USGS Climate Change Viewer <https://www.usgs.gov/tools/national-climate-change-viewer-nccv>`_
 
