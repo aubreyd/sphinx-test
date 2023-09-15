@@ -1,7 +1,7 @@
 
 
-Water sector climate change attribution
-=======================================
+Climate Change Attribution in the Water Sector
+==============================================
 
 Methods generating future projections for water availability assessments
 
