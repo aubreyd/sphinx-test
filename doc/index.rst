@@ -4,8 +4,8 @@
    table of contents
 
 
-Basics
-==========
+NCAR/USGS Climate Primer for Water Availability Assessments
+===========================================================
 
 .. toctree::
    :maxdepth: 2
