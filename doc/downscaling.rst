@@ -1,9 +1,7 @@
 
 
-Dynamical versus statistical downscaling
+Downscaling Strategies
 ========================================
-
-Write me.
 
 
 How far out do you care?
