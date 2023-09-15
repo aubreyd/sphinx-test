@@ -10,8 +10,15 @@ Basics
 .. toctree::
    :maxdepth: 2
 
-   purpose.rst
-   dependencies.rst
-   usage.rst
-   credit.rst
-   exercises.rst
+   summary.rst
+   introduction.rst
+   baselines.rst
+   gcms.rst
+   ensembles.rst
+   downscaling.rst
+   attribution.rst
+   casestudies.rst
+   cookbook.rst
+   references.rst
+   acknowledgements.rst
+
