@@ -92,7 +92,8 @@ html_logo = "climate_primer_small2.png"
 # documentation.
 #
 html_theme_options = {
-'logo_only': True,
+    'logo_only': True,
+    'display_version': False,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
