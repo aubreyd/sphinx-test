@@ -3,9 +3,12 @@
    in this index.rst for them to be rendered and added to the
    table of contents
 
-
-NCAR/USGS Climate Primer for Water Availability Assessments
 ===========================================================
+Climate Primer for Water Availability Assessments
+===========================================================
+----------------------------------------------------------------------------------------------
+A joint project of the National Center for Atmospheric Research and the U.S. Geological Survey
+----------------------------------------------------------------------------------------------
 
 .. toctree::
    :maxdepth: 2
